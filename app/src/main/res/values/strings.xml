@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="create_birtjday_card">create birtjday card</string>
+    <string name="input_hint_text">saif</string>
+</resources>
